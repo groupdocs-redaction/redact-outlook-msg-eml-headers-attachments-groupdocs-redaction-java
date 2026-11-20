@@ -1,0 +1,17 @@
+From: John Doe <john.doe@fabrikam.com>
+To: Jane Smith <jane.smith@contoso.com>
+Cc: legal@fabrikam.com
+Subject: Confidential: Q4 contract review for John Doe
+Date: Mon, 20 Nov 2026 10:00:00 +0200
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Jane Smith,
+
+Please call John Doe at 555-123-4567 regarding the Contoso contract.
+Attachment reference in this thread: JohnDoe_2024_CONTRACT.pdf
+
+Thanks,
+John Doe
+john.doe@fabrikam.com

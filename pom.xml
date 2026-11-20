@@ -9,8 +9,8 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>Redact Outlook MSG and EML Headers & Attachments with GroupDocs Redaction for Java</name>
-    <description>Redact personal information from Outlook MSG and EML files including headers and attachments using GroupDocs Redaction for Java.</description>
+    <name>GroupDocs Redaction Java Redact Outlook EML Messages</name>
+    <description>Showcase project demonstrating redaction of personal data in Outlook EML messages with GroupDocs Redaction.</description>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -30,7 +30,7 @@
         <dependency>
             <groupId>com.groupdocs</groupId>
             <artifactId>groupdocs-redaction</artifactId>
-            <version>26.7</version>
+            <version>26.11</version>
         </dependency>
     </dependencies>
 
